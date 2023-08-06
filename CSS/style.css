@@ -1,0 +1,33 @@
+
+
+.Top-section{
+    background-color:#75C2F6;
+    text-align: center;
+}
+
+.Middle-section{
+    background-color: #F4D160;
+}
+
+.big_font{
+    font-size: 30px;
+}
+
+*{
+    margin: 0000;
+}
+
+img {
+    border-end-end-radius: 50%;
+  }
+
+  h1{font-family: "Cursive", "Lucida Handwriting";
+    color: #1D5B79;
+   
+   }
+
+   h2{font-family: "Fantasy", "Copperplate";
+    color: #0D1282;
+    text-align: center;
+
+   }
